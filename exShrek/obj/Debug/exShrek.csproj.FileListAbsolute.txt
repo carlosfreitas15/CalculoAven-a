@@ -1,0 +1,22 @@
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.exe.config
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.exe
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.pdb
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.Form1.resources
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.Properties.Resources.resources
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.exe
+C:\Users\admin\OneDrive - IEFP Formação\UFCD - CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.exe.config
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\bin\Debug\exShrek.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.Form1.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.Properties.Resources.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\Exercicios\exShrek\exShrek\obj\Debug\exShrek.pdb
